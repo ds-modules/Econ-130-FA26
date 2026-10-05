@@ -9,4 +9,4 @@ GSIs: Julia Paris and Richard Calvo
 |---|---|
 | Section 4 |[![Section 4](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FEcon-130-FA26&branch=main&urlpath=lab%2Ftree%2FEcon-130-FA26%2FSection+4)|
 | Section 5 |[![Section 5](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FEcon-130-FA26&branch=main&urlpath=lab%2Ftree%2FEcon-130-FA26%2FSection+5)|
-
+| Section 6 |[![Section 6](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://r.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FEcon-130-FA26&branch=main&urlpath=lab%2Ftree%2FEcon-130-FA26%2FSection+6)|
